@@ -1,3 +1,5 @@
 # Text-Adventure
 
-A text adventure game written by Java. Implement Object-oriented design and HashMap.
+This is a text adventure game written with Java programming language.
+Implement Object-oriented design with 4 different classes.
+Implement HashMap for faster data access.
